@@ -1,0 +1,11 @@
+Model Information:
+* title:	Japanese Wall
+* source:	https://sketchfab.com/3d-models/japanese-wall-1f8ba4fa5635443f82d17a7cc118b811
+* author:	Michael L'Abbe (https://sketchfab.com/mat123116)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Japanese Wall" (https://sketchfab.com/3d-models/japanese-wall-1f8ba4fa5635443f82d17a7cc118b811) by Michael L'Abbe (https://sketchfab.com/mat123116) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
